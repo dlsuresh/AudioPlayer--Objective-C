@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F64AA5651E59F9950046EBBE /* balaya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F64AA5631E59F9950046EBBE /* balaya.jpg */; };
+		F64AA5661E59F9950046EBBE /* balayya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F64AA5641E59F9950046EBBE /* balayya.jpg */; };
+		F64AA5681E59F9B90046EBBE /* chiru.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F64AA5671E59F9B90046EBBE /* chiru.jpeg */; };
+		F64AA56A1E59FD5D0046EBBE /* choosa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F64AA5691E59FD5D0046EBBE /* choosa.mp3 */; };
+		F64AA56C1E59FD770046EBBE /* disturb.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F64AA56B1E59FD770046EBBE /* disturb.mp3 */; };
+		F64AA56E1E59FD840046EBBE /* sideplease.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F64AA56D1E59FD840046EBBE /* sideplease.mp3 */; };
+		F64AA5721E59FE040046EBBE /* nani.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F64AA56F1E59FE040046EBBE /* nani.jpg */; };
+		F64AA5731E59FE040046EBBE /* nenulocal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F64AA5701E59FE040046EBBE /* nenulocal.jpg */; };
+		F64AA5741E59FE040046EBBE /* druva.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F64AA5711E59FE040046EBBE /* druva.jpg */; };
 		F6A432841E56F15E00C72039 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F6A432831E56F15E00C72039 /* main.m */; };
 		F6A432871E56F15E00C72039 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F6A432861E56F15E00C72039 /* AppDelegate.m */; };
 		F6A4328A1E56F15E00C72039 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F6A432891E56F15E00C72039 /* ViewController.m */; };
@@ -15,6 +24,15 @@
 		F6A432921E56F15E00C72039 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6A432901E56F15E00C72039 /* LaunchScreen.storyboard */; };
 		F6A4329D1E56F15E00C72039 /* AudioPlayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F6A4329C1E56F15E00C72039 /* AudioPlayerTests.m */; };
 		F6A432A81E56F15E00C72039 /* AudioPlayerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F6A432A71E56F15E00C72039 /* AudioPlayerUITests.m */; };
+		F6A432B71E56F16E00C72039 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6A432B61E56F16E00C72039 /* AVFoundation.framework */; };
+		F6A432B91E56F22700C72039 /* Saaho.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A432B81E56F22700C72039 /* Saaho.mp3 */; };
+		F6A432BB1E57001400C72039 /* Gana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A432BA1E57001400C72039 /* Gana.mp3 */; };
+		F6A432BD1E57002600C72039 /* Sundari.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F6A432BC1E57002600C72039 /* Sundari.mp3 */; };
+		F6BEFB6E1E5AADCB00C07ADE /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = F6BEFB691E5AADCB00C07ADE /* stop.png */; };
+		F6BEFB6F1E5AADCB00C07ADE /* previous.png in Resources */ = {isa = PBXBuildFile; fileRef = F6BEFB6A1E5AADCB00C07ADE /* previous.png */; };
+		F6BEFB711E5AADCB00C07ADE /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = F6BEFB6C1E5AADCB00C07ADE /* play.png */; };
+		F6BEFB721E5AADCB00C07ADE /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = F6BEFB6D1E5AADCB00C07ADE /* pause.png */; };
+		F6BEFB751E5AAF7700C07ADE /* next1.png in Resources */ = {isa = PBXBuildFile; fileRef = F6BEFB741E5AAF7700C07ADE /* next1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +53,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F64AA5631E59F9950046EBBE /* balaya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = balaya.jpg; sourceTree = "<group>"; };
+		F64AA5641E59F9950046EBBE /* balayya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = balayya.jpg; sourceTree = "<group>"; };
+		F64AA5671E59F9B90046EBBE /* chiru.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chiru.jpeg; sourceTree = "<group>"; };
+		F64AA5691E59FD5D0046EBBE /* choosa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = choosa.mp3; sourceTree = "<group>"; };
+		F64AA56B1E59FD770046EBBE /* disturb.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = disturb.mp3; sourceTree = "<group>"; };
+		F64AA56D1E59FD840046EBBE /* sideplease.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sideplease.mp3; sourceTree = "<group>"; };
+		F64AA56F1E59FE040046EBBE /* nani.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nani.jpg; sourceTree = "<group>"; };
+		F64AA5701E59FE040046EBBE /* nenulocal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nenulocal.jpg; sourceTree = "<group>"; };
+		F64AA5711E59FE040046EBBE /* druva.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = druva.jpg; sourceTree = "<group>"; };
 		F6A4327F1E56F15E00C72039 /* AudioPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AudioPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6A432831E56F15E00C72039 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F6A432851E56F15E00C72039 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +78,15 @@
 		F6A432A31E56F15E00C72039 /* AudioPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AudioPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6A432A71E56F15E00C72039 /* AudioPlayerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AudioPlayerUITests.m; sourceTree = "<group>"; };
 		F6A432A91E56F15E00C72039 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6A432B61E56F16E00C72039 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		F6A432B81E56F22700C72039 /* Saaho.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Saaho.mp3; sourceTree = "<group>"; };
+		F6A432BA1E57001400C72039 /* Gana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Gana.mp3; sourceTree = "<group>"; };
+		F6A432BC1E57002600C72039 /* Sundari.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sundari.mp3; sourceTree = "<group>"; };
+		F6BEFB691E5AADCB00C07ADE /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
+		F6BEFB6A1E5AADCB00C07ADE /* previous.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = previous.png; sourceTree = "<group>"; };
+		F6BEFB6C1E5AADCB00C07ADE /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		F6BEFB6D1E5AADCB00C07ADE /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		F6BEFB741E5AAF7700C07ADE /* next1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +94,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F6A432B71E56F16E00C72039 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +122,7 @@
 				F6A4329B1E56F15E00C72039 /* AudioPlayerTests */,
 				F6A432A61E56F15E00C72039 /* AudioPlayerUITests */,
 				F6A432801E56F15E00C72039 /* Products */,
+				F6A432B51E56F16E00C72039 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -107,8 +145,21 @@
 				F6A432891E56F15E00C72039 /* ViewController.m */,
 				F6A4328B1E56F15E00C72039 /* Main.storyboard */,
 				F6A4328E1E56F15E00C72039 /* Assets.xcassets */,
+				F64AA56B1E59FD770046EBBE /* disturb.mp3 */,
 				F6A432901E56F15E00C72039 /* LaunchScreen.storyboard */,
 				F6A432931E56F15E00C72039 /* Info.plist */,
+				F6A432B81E56F22700C72039 /* Saaho.mp3 */,
+				F6A432BA1E57001400C72039 /* Gana.mp3 */,
+				F6A432BC1E57002600C72039 /* Sundari.mp3 */,
+				F64AA5691E59FD5D0046EBBE /* choosa.mp3 */,
+				F64AA56D1E59FD840046EBBE /* sideplease.mp3 */,
+				F64AA5631E59F9950046EBBE /* balaya.jpg */,
+				F64AA5641E59F9950046EBBE /* balayya.jpg */,
+				F64AA5671E59F9B90046EBBE /* chiru.jpeg */,
+				F64AA5711E59FE040046EBBE /* druva.jpg */,
+				F64AA56F1E59FE040046EBBE /* nani.jpg */,
+				F64AA5701E59FE040046EBBE /* nenulocal.jpg */,
+				F6BEFB731E5AADE400C07ADE /* icons */,
 				F6A432821E56F15E00C72039 /* Supporting Files */,
 			);
 			path = AudioPlayer;
@@ -138,6 +189,26 @@
 				F6A432A91E56F15E00C72039 /* Info.plist */,
 			);
 			path = AudioPlayerUITests;
+			sourceTree = "<group>";
+		};
+		F6A432B51E56F16E00C72039 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F6A432B61E56F16E00C72039 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F6BEFB731E5AADE400C07ADE /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				F6BEFB6D1E5AADCB00C07ADE /* pause.png */,
+				F6BEFB6C1E5AADCB00C07ADE /* play.png */,
+				F6BEFB6A1E5AADCB00C07ADE /* previous.png */,
+				F6BEFB741E5AAF7700C07ADE /* next1.png */,
+				F6BEFB691E5AADCB00C07ADE /* stop.png */,
+			);
+			name = icons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,9 +317,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F64AA5651E59F9950046EBBE /* balaya.jpg in Resources */,
 				F6A432921E56F15E00C72039 /* LaunchScreen.storyboard in Resources */,
+				F6BEFB721E5AADCB00C07ADE /* pause.png in Resources */,
 				F6A4328F1E56F15E00C72039 /* Assets.xcassets in Resources */,
+				F64AA5721E59FE040046EBBE /* nani.jpg in Resources */,
+				F6A432BB1E57001400C72039 /* Gana.mp3 in Resources */,
+				F64AA56A1E59FD5D0046EBBE /* choosa.mp3 in Resources */,
+				F6A432B91E56F22700C72039 /* Saaho.mp3 in Resources */,
+				F64AA56E1E59FD840046EBBE /* sideplease.mp3 in Resources */,
+				F6BEFB6E1E5AADCB00C07ADE /* stop.png in Resources */,
+				F64AA5661E59F9950046EBBE /* balayya.jpg in Resources */,
+				F64AA5681E59F9B90046EBBE /* chiru.jpeg in Resources */,
+				F6BEFB751E5AAF7700C07ADE /* next1.png in Resources */,
+				F6BEFB711E5AADCB00C07ADE /* play.png in Resources */,
+				F64AA56C1E59FD770046EBBE /* disturb.mp3 in Resources */,
+				F6A432BD1E57002600C72039 /* Sundari.mp3 in Resources */,
+				F6BEFB6F1E5AADCB00C07ADE /* previous.png in Resources */,
 				F6A4328D1E56F15E00C72039 /* Main.storyboard in Resources */,
+				F64AA5741E59FE040046EBBE /* druva.jpg in Resources */,
+				F64AA5731E59FE040046EBBE /* nenulocal.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +595,7 @@
 				F6A432AE1E56F15E00C72039 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F6A432AF1E56F15E00C72039 /* Build configuration list for PBXNativeTarget "AudioPlayerTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +604,7 @@
 				F6A432B11E56F15E00C72039 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F6A432B21E56F15E00C72039 /* Build configuration list for PBXNativeTarget "AudioPlayerUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +613,7 @@
 				F6A432B41E56F15E00C72039 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
